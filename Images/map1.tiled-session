@@ -1,0 +1,122 @@
+{
+    "activeFile": "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/Level 0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/Level 0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 888,
+                "y": 557.3333333333334
+            }
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Bridge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3.5
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Player.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3.5
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Shadow Plant.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Shadow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Struct.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 3.5
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Grass.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3.5
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Wall.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TilesetField.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TilesetFloor.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TilesetNature.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TilesetWater.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/desert_floor_tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/floor block.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/walls.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Map/Level 0..tmx": {
+            "scale": 0.7667857142857143,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.1900326036329,
+                "y": 560.7824871914298
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Discomanfulanito/Documents/python stuff/TR/Map",
+    "last.imagePath": "C:/Users/Discomanfulanito/Documents/python stuff/TR/Images",
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "openFiles": [
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/Level 0.tmx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Struct.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Player.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Bridge.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Grass.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Wall.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/floor block.tsx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/floor block.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Wall.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Tileset Grass.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Bridge.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Player.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/TX Struct.tsx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/Level 0.tmx",
+        "C:/Users/Discomanfulanito/Documents/python stuff/TR/Levels/walls.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 96,
+        "width": 128
+    },
+    "tileset.type": 0
+}
